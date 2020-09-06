@@ -1,0 +1,10 @@
+.topbar {
+    background-color: #fdd835;
+    padding: 1.3rem;
+}
+
+.topbar > span {
+    margin-right: 1.5rem;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: bold;
+}

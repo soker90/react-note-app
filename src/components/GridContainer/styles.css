@@ -1,0 +1,6 @@
+.GridContainer-root {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 1rem;
+    grid-gap: 1rem;
+}
